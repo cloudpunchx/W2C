@@ -1,0 +1,39 @@
+/* Stylying my background. */
+html {
+    background-color: #FEEBF2;
+}
+
+/* Styling my H1 tags. */
+h1 {
+    color: #64BABE;
+    padding: 25px;
+    text-align: center;
+}
+
+/* Styling my P tags. */
+p {
+    padding: 25px;
+    text-align: center;
+}
+
+.months {
+    color: #FFB138;
+    font-weight: 600;
+}
+
+/* Styling my unordered list. */
+ul {
+    text-align: center;
+    list-style-position: inside;
+    list-style-image: url(/media/favourite-book.svg) 
+}
+
+/* Styling my image. */
+.books {
+    display: block;
+    margin: auto;
+    border-radius: 20px;
+    height: auto;
+    max-width: 200px;
+    padding: 10px;
+}
